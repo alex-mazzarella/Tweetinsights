@@ -3,7 +3,8 @@ My first Data Science project. Created as the capstone project while at the Brai
 
 Please take the time to read this ReadMe description, it will help you understand the structure of the repository.
 
-###############################
+#############################
+
 #######		  DATA 		  ##########
 
 Before reviewing any notebook, please download the 2 data folders named 
@@ -16,6 +17,7 @@ https://drive.google.com/drive/u/0/folders/1QXzj1p9TrpT7Tna1W6BWD81TJstpULrR
 and save them (unzipped) inside "final-Twitter API".
 
 ##############################
+
 ##############################
 
 Here you can find the basic information about the files 
@@ -28,7 +30,8 @@ For this project, I have used the following:
 I have also included a text document with the environment variables.
 For a more detailed description, see below.
 
-#########################################################################
+###############################################
+
 Please follow this order when reading the notebooks:
 
 - 01_Alex_Mazzarella_ScrapingTweets(xbox_netflix)
