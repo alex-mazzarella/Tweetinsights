@@ -3,8 +3,9 @@ My first Data Science project. Created as the capstone project while at the Brai
 
 Please take the time to read this ReadMe description, it will help you understand the structure of the repository.
 
-#######################################################
-##################		  DATA 		  #####################
+###############################
+#######		  DATA 		  ##########
+
 Before reviewing any notebook, please download the 2 data folders named 
 - "master_tweets"
 - "net_tweets_pulled"
@@ -13,8 +14,9 @@ from this link
 https://drive.google.com/drive/u/0/folders/1QXzj1p9TrpT7Tna1W6BWD81TJstpULrR
 
 and save them (unzipped) inside "final-Twitter API".
-#######################################################
-#######################################################
+
+##############################
+##############################
 
 Here you can find the basic information about the files 
 included in the folder "final-Twitter API".
