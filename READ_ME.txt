@@ -10,6 +10,11 @@ from this link
 https://drive.google.com/drive/u/0/folders/1QXzj1p9TrpT7Tna1W6BWD81TJstpULrR
 
 and save them (unzipped) inside "final-Twitter API".
+
+NOTE: the folder
+- "xbox_tweets_pulled" 
+can also be downloaded from the link above, however it is not used 
+in this analysis.
 #########################################################################
 #########################################################################
 
