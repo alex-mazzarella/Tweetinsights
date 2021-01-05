@@ -1,5 +1,5 @@
 # Tweetinsights
-My first Data Science project. Created as the capstone project while at the BrainStation Data Science bootcamp.
+NLP Data Science project. Created as the capstone project while at the BrainStation Data Science bootcamp.
 
 Please take the time to read this ReadMe description, it will help you understand the structure of the repository.
 
